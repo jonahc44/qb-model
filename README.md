@@ -1,1 +1,3 @@
-# qb-model
+# QB Model
+
+Getting started
